@@ -16,3 +16,6 @@ This project is automatically deployed to GitHub Pages via GitHub Actions upon p
 ## Setup
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
+## Planned Changes
+- Redesigning to a "Polished Minimalist" aesthetic. Details in `docs/superpowers/plans/2026-06-01-portfolio-minimalist-implementation.md`.
