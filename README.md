@@ -4,11 +4,10 @@ A simple, clean portfolio website for showcasing engineering projects.
 
 This project is automatically deployed to GitHub Pages via GitHub Actions upon pushing to the `main` branch.
 
-## Project Structure
-- `index.html`: Main portfolio page.
-- `style.css`: Stylesheet for the portfolio.
-- `docs/`: Project documentation and specs.
-- `.github/workflows/`: CI/CD configuration.
+## Projects
+- **Product Failure Prediction**: Predict product failure by using parameters in our process.
+- **Machine Failure Prediction**: Predict machine failure by our product parameters.
+- **Engineering Capstone**: Mechanical design and simulation project.
 
 ## Technologies Used
 - HTML5
