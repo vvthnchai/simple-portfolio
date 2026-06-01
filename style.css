@@ -16,8 +16,8 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-primary);
-    font-family: var(--font-main);
-    line-height: 1.6;
+    font-family: var(--font-body);
+    line-height: 1.8;
 }
 
 .blueprint-container {
@@ -37,6 +37,7 @@ body {
     letter-spacing: -1px;
     color: white;
     margin-bottom: 0.5rem;
+    font-family: var(--font-heading);
 }
 
 .status-tag {
@@ -58,6 +59,7 @@ body {
     color: var(--accent-blue);
     margin-bottom: 2rem;
     text-transform: uppercase;
+    font-family: var(--font-heading);
 }
 
 .project-grid {
