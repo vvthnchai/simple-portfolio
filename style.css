@@ -21,16 +21,14 @@ body {
 }
 
 .blueprint-container {
-    max-width: 1200px;
+    max-width: 900px; /* Slimmer for readability */
     margin: 0 auto;
-    border-left: 1px solid var(--border-color);
-    border-right: 1px solid var(--border-color);
+    padding: 0 2rem;
     min-height: 100vh;
 }
-
 .section-border {
-    border-bottom: 1px solid var(--border-color);
-    padding: 4rem 2rem;
+    border-bottom: none; /* Remove section borders */
+    padding: 6rem 0; /* Increase vertical spacing */
 }
 
 .title {
